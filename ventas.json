@@ -86,5 +86,34 @@
         "subtotal": 38850
       }
     ]
+  },
+  {
+    "id": "TC-1791594025783",
+    "fecha": "2026-10-10T01:00:25.783Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Carlos Gómez",
+    "total": 16300,
+    "items": [
+      {
+        "codigo": "6970493061762",
+        "nombre": "Auricular EDX PRO",
+        "cantidad": 1,
+        "precio": 10000,
+        "subtotal": 10000
+      },
+      {
+        "codigo": "7790150006351",
+        "nombre": "Coca-Cola 2.25L",
+        "cantidad": 3,
+        "precio": 2100,
+        "subtotal": 6300
+      }
+    ]
   }
 ]
