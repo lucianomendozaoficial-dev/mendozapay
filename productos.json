@@ -267,5 +267,16 @@
         "price": 632.4
       }
     ]
+  },
+  {
+    "name": "Pure de tomate arcor 520g",
+    "id": "7790580146115",
+    "price": 1389.73,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1293.89
+      }
+    ]
   }
 ]
