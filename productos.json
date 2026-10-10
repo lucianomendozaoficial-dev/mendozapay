@@ -64,5 +64,20 @@
     "id": "7798022222588",
     "price": 2386.61,
     "tiers": []
+  },
+  {
+    "name": "Vinagre alcohol menoyo 250ml",
+    "id": "7790130000645",
+    "price": 1133.39,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 1019.99
+      },
+      {
+        "qty": 12,
+        "price": 982.28
+      }
+    ]
   }
 ]
