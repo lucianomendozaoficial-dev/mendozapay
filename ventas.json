@@ -42,5 +42,27 @@
         "subtotal": 10500
       }
     ]
+  },
+  {
+    "id": "TC-1791591627022",
+    "fecha": "2026-10-10T00:20:27.022Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Luciano Mendoza",
+    "total": 6300,
+    "items": [
+      {
+        "codigo": "7790150006351",
+        "nombre": "Coca-Cola 2.25L",
+        "cantidad": 3,
+        "precio": 2100,
+        "subtotal": 6300
+      }
+    ]
   }
 ]
