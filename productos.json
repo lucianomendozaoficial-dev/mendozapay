@@ -177,5 +177,20 @@
         "price": 2079.78
       }
     ]
+  },
+  {
+    "name": "Pitusas limon par-nor 160g",
+    "id": "7791324000069",
+    "price": 1143.62,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1061.93
+      },
+      {
+        "qty": 3,
+        "price": 971.99
+      }
+    ]
   }
 ]
