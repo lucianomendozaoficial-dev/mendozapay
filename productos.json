@@ -111,5 +111,20 @@
         "price": 831.46
       }
     ]
+  },
+  {
+    "name": "FIDEOS TALLARIN SOL PAMPEANO 500g",
+    "id": "7798031151862",
+    "price": 935.41,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 866.94
+      },
+      {
+        "qty": 6,
+        "price": 837.46
+      }
+    ]
   }
 ]
