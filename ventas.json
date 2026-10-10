@@ -181,5 +181,41 @@
         "subtotal": 3606.6000000000004
       }
     ]
+  },
+  {
+    "id": "TC-1791651158806",
+    "fecha": "2026-10-10T16:52:38.806Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendoza972@gmail.com"
+    },
+    "cajera": "Luciano Mendoza",
+    "total": 10033.45,
+    "items": [
+      {
+        "codigo": "7798036830151",
+        "nombre": "Celosas 350g",
+        "cantidad": 2,
+        "precio": 2163.33,
+        "subtotal": 4326.66
+      },
+      {
+        "codigo": "7798036830175",
+        "nombre": "Celosas 230g",
+        "cantidad": 1,
+        "precio": 1546.27,
+        "subtotal": 1546.27
+      },
+      {
+        "codigo": "7798036830168",
+        "nombre": "Celosas 110g",
+        "cantidad": 6,
+        "precio": 693.42,
+        "subtotal": 4160.5199999999995
+      }
+    ]
   }
 ]
