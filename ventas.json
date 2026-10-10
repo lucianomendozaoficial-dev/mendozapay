@@ -159,5 +159,27 @@
         "subtotal": 4250
       }
     ]
+  },
+  {
+    "id": "TC-1791636943775",
+    "fecha": "2026-10-10T12:55:43.775Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendoza972@gmail.com"
+    },
+    "cajera": "Luciano Mendoza",
+    "total": 3606.6,
+    "items": [
+      {
+        "codigo": "7790130000034",
+        "nombre": "Vinagre alcohol menoyo 500ml",
+        "cantidad": 3,
+        "precio": 1202.2,
+        "subtotal": 3606.6000000000004
+      }
+    ]
   }
 ]
