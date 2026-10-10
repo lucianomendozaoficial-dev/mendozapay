@@ -252,5 +252,20 @@
         "price": 705.9
       }
     ]
+  },
+  {
+    "name": "Pure de tomate vigente 520g",
+    "id": "7790123001109",
+    "price": 684.99,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 658.75
+      },
+      {
+        "qty": 6,
+        "price": 632.4
+      }
+    ]
   }
 ]
