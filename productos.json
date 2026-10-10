@@ -1,17 +1,5 @@
 [
   {
-    "id": "7790150006351",
-    "name": "Coca-Cola 2.25L",
-    "price": 2100,
-    "image": "https://.../coca.png",
-    "tiers": [
-      {
-        "qty": 6,
-        "price": 1850
-      }
-    ]
-  },
-  {
     "name": "Harina de trigo Bruning 000",
     "id": "7791599000122",
     "price": 850,
