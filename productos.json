@@ -237,5 +237,20 @@
         "price": 834.7
       }
     ]
+  },
+  {
+    "name": "Pure de tomate sabor del valle 520g",
+    "id": "7798156760062",
+    "price": 764.84,
+    "tiers": [
+      {
+        "qty": 6,
+        "price": 735.43
+      },
+      {
+        "qty": 12,
+        "price": 705.9
+      }
+    ]
   }
 ]
