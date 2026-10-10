@@ -308,5 +308,20 @@
         "price": 919.83
       }
     ]
+  },
+  {
+    "name": "Pure de tomate san remo 520g",
+    "id": "7798022220317",
+    "price": 851.34,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 818.59
+      },
+      {
+        "qty": 12,
+        "price": 753.11
+      }
+    ]
   }
 ]
