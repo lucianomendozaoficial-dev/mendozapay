@@ -115,5 +115,27 @@
         "subtotal": 6300
       }
     ]
+  },
+  {
+    "id": "TC-1791596416648",
+    "fecha": "2026-10-10T01:40:16.648Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendoza972@gmail.com"
+    },
+    "cajera": "Luciano Mendoza",
+    "total": 2550,
+    "items": [
+      {
+        "codigo": "7791599000122",
+        "nombre": "Harina de trigo Bruning 000",
+        "cantidad": 3,
+        "precio": 850,
+        "subtotal": 2550
+      }
+    ]
   }
 ]
