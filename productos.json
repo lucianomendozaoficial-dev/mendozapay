@@ -96,5 +96,20 @@
     "id": "7790580126322",
     "price": 1834.62,
     "tiers": []
+  },
+  {
+    "name": "FIDEOS TIRABUZON SOL PAMPEANO 500g",
+    "id": "7798031151046",
+    "price": 935.41,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 866.94
+      },
+      {
+        "qty": 6,
+        "price": 831.46
+      }
+    ]
   }
 ]
