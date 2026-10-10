@@ -5,7 +5,16 @@
     "price": 2100,
     "image": "https://.../coca.png",
     "tiers": [
-      { "qty": 6, "price": 1850 }
+      {
+        "qty": 6,
+        "price": 1850
+      }
     ]
+  },
+  {
+    "name": "Auricular EDX PRO",
+    "id": "6970493061762",
+    "price": 10000,
+    "tiers": []
   }
 ]
