@@ -222,5 +222,20 @@
         "price": 1033.99
       }
     ]
+  },
+  {
+    "name": "Pure de tomate marolio 520g",
+    "id": "7797470199121",
+    "price": 908.1,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 871.98
+      },
+      {
+        "qty": 6,
+        "price": 834.7
+      }
+    ]
   }
 ]
