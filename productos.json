@@ -73,5 +73,16 @@
     "id": "7790580138721",
     "price": 2837,
     "tiers": []
+  },
+  {
+    "name": "Polenta presto pronta 490",
+    "id": "7790580138738",
+    "price": 1981.62,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1844.96
+      }
+    ]
   }
 ]
