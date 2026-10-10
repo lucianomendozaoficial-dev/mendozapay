@@ -192,5 +192,20 @@
         "price": 971.99
       }
     ]
+  },
+  {
+    "name": "Pure de tomate molto 520g",
+    "id": "7798138554603",
+    "price": 988.2,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 950.2
+      },
+      {
+        "qty": 6,
+        "price": 912.19
+      }
+    ]
   }
 ]
