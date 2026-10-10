@@ -10,5 +10,11 @@
         "price": 1850
       }
     ]
+  },
+  {
+    "name": "Harina de trigo Bruning 000",
+    "id": "7791599000122",
+    "price": 850,
+    "tiers": []
   }
 ]
