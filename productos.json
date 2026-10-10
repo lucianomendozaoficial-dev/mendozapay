@@ -334,5 +334,16 @@
         "price": 1121.84
       }
     ]
+  },
+  {
+    "name": "Pulpa de tomate la campagnola 520g",
+    "id": "7793360000478",
+    "price": 1465.34,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1366.69
+      }
+    ]
   }
 ]
