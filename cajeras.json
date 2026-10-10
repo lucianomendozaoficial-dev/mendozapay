@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Luciano Mendoza",
+    "pin": "2378",
+    "activa": true
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Gómez",
+    "pin": "5678",
+    "activa": true
+  },
+  {
+    "id": 3,
+    "nombre": "Laura Fernández",
+    "pin": "9012",
+    "activa": true
+  }
+]
