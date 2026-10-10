@@ -293,5 +293,20 @@
         "price": 2294.66
       }
     ]
+  },
+  {
+    "name": "Pure de tomate canale 520g",
+    "id": "7798132920589",
+    "price": 1022.26,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 954.11
+      },
+      {
+        "qty": 3,
+        "price": 919.83
+      }
+    ]
   }
 ]
