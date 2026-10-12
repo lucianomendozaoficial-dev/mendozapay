@@ -345,5 +345,16 @@
         "price": 1366.69
       }
     ]
+  },
+  {
+    "name": "Pitusas chocolate par-nor 160g",
+    "id": "7791324157046",
+    "price": 1143.61,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1061.93
+      }
+    ]
   }
 ]
