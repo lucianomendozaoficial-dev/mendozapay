@@ -371,5 +371,16 @@
         "price": 898.63
       }
     ]
+  },
+  {
+    "name": "Mate cocido san remo x25",
+    "id": "7798022221734",
+    "price": 893.99,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 830.18
+      }
+    ]
   }
 ]
