@@ -1,0 +1,52 @@
+[
+  {
+    "id": "TC-1791899965059",
+    "fecha": "2026-10-13T13:59:25.059Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Luciano Mendoza",
+    "total": 31667.21,
+    "items": [
+      {
+        "codigo": "7622201736033",
+        "nombre": "Cerealitas clasicas 212g",
+        "cantidad": 2,
+        "precio": 2098.89,
+        "subtotal": 4197.78
+      },
+      {
+        "codigo": "7790040377806",
+        "nombre": "Criollitas tripack 300g",
+        "cantidad": 1,
+        "precio": 2042.72,
+        "subtotal": 2042.72
+      },
+      {
+        "codigo": "7790040139015",
+        "nombre": "Criollitas pentapack 499g",
+        "cantidad": 4,
+        "precio": 3369.78,
+        "subtotal": 13479.12
+      },
+      {
+        "codigo": "7798141972388",
+        "nombre": "La providencia x5",
+        "cantidad": 1,
+        "precio": 2645.99,
+        "subtotal": 2645.99
+      },
+      {
+        "codigo": "7790040704909",
+        "nombre": "Serranas tripack sandwich 336g",
+        "cantidad": 4,
+        "precio": 2325.4,
+        "subtotal": 9301.6
+      }
+    ]
+  }
+]
