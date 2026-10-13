@@ -435,5 +435,16 @@
         "price": 1774.92
       }
     ]
+  },
+  {
+    "name": "Grisinis riera Integral 160g",
+    "id": "7190011010815",
+    "price": 1916.35,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1774.92
+      }
+    ]
   }
 ]
