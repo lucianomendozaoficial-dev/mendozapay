@@ -534,5 +534,20 @@
         "price": 2456.88
       }
     ]
+  },
+  {
+    "name": "Cerealitas clasicas 212g",
+    "id": "7622201736033",
+    "price": 2261.72,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 2098.89
+      },
+      {
+        "qty": 3,
+        "price": 1998.89
+      }
+    ]
   }
 ]
