@@ -479,5 +479,16 @@
         "price": 1774.92
       }
     ]
+  },
+  {
+    "name": "Grisinis riera finas hierbas 160g",
+    "id": "2126011010611",
+    "price": 1916.35,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1774.92
+      }
+    ]
   }
 ]
