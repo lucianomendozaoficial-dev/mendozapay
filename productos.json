@@ -457,5 +457,16 @@
         "price": 1774.92
       }
     ]
+  },
+  {
+    "name": "Graisnis riera sesamo 160g",
+    "id": "7790071010512",
+    "price": 1913.35,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1774.92
+      }
+    ]
   }
 ]
