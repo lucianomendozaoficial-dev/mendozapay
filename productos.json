@@ -468,5 +468,16 @@
         "price": 1774.92
       }
     ]
+  },
+  {
+    "name": "Grisinis riera light",
+    "id": "7790071010420",
+    "price": 1916.35,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1774.92
+      }
+    ]
   }
 ]
