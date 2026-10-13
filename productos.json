@@ -424,5 +424,16 @@
     "id": "7790150006375",
     "price": 28388.46,
     "tiers": []
+  },
+  {
+    "name": "Grisinis riera clasico 160g",
+    "id": "7790071010123",
+    "price": 1916.35,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1774.92
+      }
+    ]
   }
 ]
