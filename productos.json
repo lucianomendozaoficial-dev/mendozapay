@@ -654,5 +654,20 @@
         "price": 831.46
       }
     ]
+  },
+  {
+    "name": "Salchicha corta roxy x6",
+    "id": "7790102000208",
+    "price": 1142.29,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1069.44
+      },
+      {
+        "qty": 3,
+        "price": 1028.31
+      }
+    ]
   }
 ]
