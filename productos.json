@@ -579,5 +579,16 @@
         "price": 1183.24
       }
     ]
+  },
+  {
+    "name": "Atun entero natural san remo 170g",
+    "id": "7798022228573",
+    "price": 3132.88,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 2909.1
+      }
+    ]
   }
 ]
