@@ -617,5 +617,16 @@
         "price": 4709.37
       }
     ]
+  },
+  {
+    "name": "Yerba la cumbrecita 1k",
+    "id": "7790217000018",
+    "price": 3034.12,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 2912.75
+      }
+    ]
   }
 ]
