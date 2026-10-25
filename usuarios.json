@@ -11,5 +11,18 @@
     "totalGastado": 36050.3,
     "fechaRegistro": "2026-10-13T13:55:31.756Z",
     "ultimaCompra": "2026-10-14T21:35:39.345Z"
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Ignacio",
+    "nacimiento": "1985-06-09",
+    "dni": "2222222",
+    "celular": "1155151",
+    "email": "",
+    "puntos": 0,
+    "compras": 0,
+    "totalGastado": 0,
+    "fechaRegistro": "2026-10-25T00:01:36.246Z",
+    "ultimaCompra": null
   }
 ]
