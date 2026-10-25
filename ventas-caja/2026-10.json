@@ -1,0 +1,25 @@
+[
+  {
+    "id": "V-261024-212440",
+    "fecha": "2026-10-25T00:24:40.002Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Luciano Mendoza",
+    "total": 893.99,
+    "items": [
+      {
+        "codigo": "7798022221734",
+        "nombre": "Mate cocido san remo x25",
+        "cantidad": 1,
+        "precio": 893.99,
+        "subtotal": 893.99
+      }
+    ],
+    "numero": "V-261024-212440"
+  }
+]
