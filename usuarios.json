@@ -1,16 +1,1 @@
-[
-  {
-    "nombre": "Luciano",
-    "apellido": "Mendoza",
-    "nacimiento": "2005-09-18",
-    "dni": "47258027",
-    "celular": "1151186792",
-    "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 3,
-    "compras": 3,
-    "totalGastado": 36944.29,
-    "fechaRegistro": "2026-10-13T13:55:31.756Z",
-    "ultimaCompra": "2026-10-25T00:24:40.002Z",
-    "ultimoAcceso": "2026-10-25T00:16:00.521Z"
-  }
-]
+[]
