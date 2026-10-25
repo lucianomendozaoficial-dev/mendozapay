@@ -6,11 +6,27 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 0,
-    "compras": 0,
-    "totalGastado": 0,
+    "puntos": 1,
+    "compras": 1,
+    "totalGastado": 2490.54,
     "fechaRegistro": "2026-10-25T01:24:14.978Z",
-    "ultimaCompra": null,
-    "ultimoAcceso": "2026-10-25T19:13:31.181Z"
+    "ultimaCompra": "2026-10-25T19:15:00.758Z",
+    "ultimoAcceso": "2026-10-25T19:13:31.181Z",
+    "historial": [
+      {
+        "numero": "V-261025-161500",
+        "fecha": "2026-10-25T19:15:00.758Z",
+        "total": 2490.54,
+        "cajera": "Cesar Fabian",
+        "items": [
+          {
+            "nombre": "Mate cocido san remo x25",
+            "cantidad": 3,
+            "precio": 830.18,
+            "subtotal": 2490.54
+          }
+        ]
+      }
+    ]
   }
 ]
