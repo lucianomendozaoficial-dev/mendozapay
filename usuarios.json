@@ -12,18 +12,5 @@
     "fechaRegistro": "2026-10-13T13:55:31.756Z",
     "ultimaCompra": "2026-10-25T00:24:40.002Z",
     "ultimoAcceso": "2026-10-25T00:16:00.521Z"
-  },
-  {
-    "nombre": "Juan",
-    "apellido": "Ignacio",
-    "nacimiento": "1985-06-09",
-    "dni": "2222222",
-    "celular": "1155151",
-    "email": "",
-    "puntos": 0,
-    "compras": 0,
-    "totalGastado": 0,
-    "fechaRegistro": "2026-10-25T00:01:36.246Z",
-    "ultimaCompra": null
   }
 ]
