@@ -733,5 +733,16 @@
         "price": 1637.39
       }
     ]
+  },
+  {
+    "name": "Levadura en polvo mi pan 10g",
+    "id": "4709123009131",
+    "price": 724.75,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 674.77
+      }
+    ]
   }
 ]
