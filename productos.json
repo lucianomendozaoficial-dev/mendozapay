@@ -701,5 +701,20 @@
     "id": "7798205050243",
     "price": 2425.2,
     "tiers": []
+  },
+  {
+    "name": "Pure de tomate la huerta 530g",
+    "id": "790439567440",
+    "price": 954.42,
+    "tiers": [
+      {
+        "qty": 4,
+        "price": 917.6
+      },
+      {
+        "qty": 12,
+        "price": 880.85
+      }
+    ]
   }
 ]
