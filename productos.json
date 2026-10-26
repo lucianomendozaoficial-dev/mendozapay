@@ -722,5 +722,16 @@
     "id": "2077500727544",
     "price": 72754,
     "tiers": []
+  },
+  {
+    "name": "Arroz largo fino dos hermanos 1k",
+    "id": "7790503199082",
+    "price": 1754.35,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1637.39
+      }
+    ]
   }
 ]
