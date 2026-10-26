@@ -684,5 +684,16 @@
     ],
     "stock": 12,
     "stockDesde": "2026-10-26T11:54:45.475Z"
+  },
+  {
+    "name": "Sal fina san remo 500g",
+    "id": "7798022225220",
+    "price": 744.66,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 691.47
+      }
+    ]
   }
 ]
