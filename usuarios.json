@@ -6,12 +6,32 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 0,
-    "compras": 0,
-    "totalGastado": 0,
+    "puntos": 1,
+    "compras": 1,
+    "totalGastado": 12488.86,
     "fechaRegistro": "2026-10-25T01:24:14.978Z",
-    "ultimaCompra": "2026-10-25T19:15:00.758Z",
+    "ultimaCompra": "2026-10-26T00:53:59.550Z",
     "historial": [
+      {
+        "numero": "V-261025-215359",
+        "fecha": "2026-10-26T00:53:59.550Z",
+        "total": 9998.32,
+        "cajera": "Cesar Fabian",
+        "items": [
+          {
+            "nombre": "Mate cocido san remo x25",
+            "cantidad": 4,
+            "precio": 830.18,
+            "subtotal": 3320.72
+          },
+          {
+            "nombre": "Pure de tomate marolio 520g",
+            "cantidad": 8,
+            "precio": 834.7,
+            "subtotal": 6677.6
+          }
+        ]
+      },
       {
         "numero": "V-261025-161500",
         "fecha": "2026-10-25T19:15:00.758Z",
@@ -26,6 +46,7 @@
           }
         ]
       }
-    ]
+    ],
+    "ultimoAcceso": "2026-10-25T19:13:31.181Z"
   }
 ]
