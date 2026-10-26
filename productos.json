@@ -671,5 +671,18 @@
         "price": 1028.31
       }
     ]
+  },
+  {
+    "name": "Dulce de leche tregar 200g",
+    "id": "7793913001945",
+    "price": 2126.87,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1979.81
+      }
+    ],
+    "stock": 12,
+    "stockDesde": "2026-10-26T11:54:45.475Z"
   }
 ]
