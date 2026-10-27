@@ -1,0 +1,33 @@
+[
+  {
+    "id": "CIERRE-1793063477375",
+    "caja": "Caja 1",
+    "cajera": "Valentina Castillo",
+    "desde": "2026-10-27T01:10:48.425Z",
+    "hasta": "2026-10-27T01:11:15.265Z",
+    "periodo": "Turno actual",
+    "ventas": 0,
+    "total": 0,
+    "porMedio": {
+      "efectivo": {
+        "sistema": 0,
+        "contado": null,
+        "diferencia": null
+      },
+      "transferencia": {
+        "sistema": 0,
+        "contado": null,
+        "diferencia": null
+      },
+      "tarjeta": {
+        "sistema": 0,
+        "contado": null,
+        "diferencia": null
+      }
+    },
+    "fondoInicial": 0,
+    "diferenciaTotal": 0,
+    "pendientesDeSubir": 0,
+    "creadoEn": "2026-10-27T01:11:17.375Z"
+  }
+]
