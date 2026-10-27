@@ -140,5 +140,28 @@
       "recibido": 3000,
       "vuelto": 384.06
     }
+  },
+  {
+    "id": "V-261026-222441",
+    "fecha": "2026-10-27T01:24:41.242Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "total": 13282.88,
+    "items": [
+      {
+        "codigo": "7798022221734",
+        "nombre": "Mate cocido san remo x25",
+        "cantidad": 16,
+        "precio": 830.18,
+        "subtotal": 13282.88
+      }
+    ],
+    "numero": "V-261026-222441"
   }
 ]
