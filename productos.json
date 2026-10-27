@@ -825,5 +825,20 @@
         "price": 880.85
       }
     ]
+  },
+  {
+    "name": "Fideo mostachol sol pampeano 500g",
+    "id": "7798031153835",
+    "price": 935.41,
+    "tiers": [
+      {
+        "qty": 3,
+        "price": 866.94
+      },
+      {
+        "qty": 6,
+        "price": 831.46
+      }
+    ]
   }
 ]
