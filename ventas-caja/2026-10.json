@@ -74,5 +74,45 @@
       }
     ],
     "numero": "V-261025-215359"
+  },
+  {
+    "id": "POS-261026-215136",
+    "numero": "POS-261026-215136",
+    "fecha": "2026-10-27T00:51:36.538Z",
+    "origen": "pos",
+    "caja": "Caja 1",
+    "cajera": "Valentina Castillo",
+    "cliente": {},
+    "items": [
+      {
+        "codigo": "7791324157046",
+        "nombre": "Pitusas chocolate par-nor 160g",
+        "cantidad": 1,
+        "precio": 1143.61,
+        "subtotal": 1143.61
+      },
+      {
+        "codigo": "4709123009131",
+        "nombre": "Levadura en polvo mi pan 10g",
+        "cantidad": 8,
+        "precio": 674.77,
+        "subtotal": 5398.16
+      },
+      {
+        "codigo": "7798138554603",
+        "nombre": "Pure de tomate molto 520g",
+        "cantidad": 5,
+        "precio": 950.2,
+        "subtotal": 4751
+      }
+    ],
+    "subtotal": 11292.77,
+    "descuento": 0,
+    "total": 11292.77,
+    "pago": {
+      "metodo": "transferencia",
+      "recibido": 11292.77,
+      "vuelto": 0
+    }
   }
 ]
