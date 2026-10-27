@@ -772,5 +772,20 @@
         "price": 1743.18
       }
     ]
+  },
+  {
+    "name": "Tomate cubeteado arcor 400g",
+    "id": "7790580567101",
+    "price": 1993.46,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1919.63
+      },
+      {
+        "qty": 3,
+        "price": 1787.23
+      }
+    ]
   }
 ]
