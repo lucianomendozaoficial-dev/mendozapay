@@ -6,10 +6,32 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 0,
-    "compras": 0,
-    "totalGastado": 0,
+    "puntos": 1,
+    "compras": 1,
+    "totalGastado": 10597.5,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": null
+    "ultimaCompra": "2026-10-27T14:55:29.859Z",
+    "historial": [
+      {
+        "numero": "V-261027-115529",
+        "fecha": "2026-10-27T14:55:29.859Z",
+        "total": 10597.5,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "Savora 200g",
+            "cantidad": 1,
+            "precio": 3158.92,
+            "subtotal": 3158.92
+          },
+          {
+            "nombre": "Mac y cheese arcor 197g",
+            "cantidad": 2,
+            "precio": 3719.29,
+            "subtotal": 7438.58
+          }
+        ]
+      }
+    ]
   }
 ]
