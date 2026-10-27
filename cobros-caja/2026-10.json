@@ -6,5 +6,13 @@
     "fecha": "2026-10-27T00:51:36.538Z",
     "cajera": "Valentina Castillo",
     "caja": "Caja 1"
+  },
+  {
+    "numero": "POS-261026-215224",
+    "total": 2615.94,
+    "metodo": "efectivo",
+    "fecha": "2026-10-27T00:52:24.037Z",
+    "cajera": "Valentina Castillo",
+    "caja": "Caja 1"
   }
 ]
