@@ -1,0 +1,25 @@
+[
+  {
+    "id": "V-261026-231228",
+    "fecha": "2026-10-27T02:12:28.597Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": ""
+    },
+    "cajera": "Valentina Castillo",
+    "total": 2615.94,
+    "items": [
+      {
+        "codigo": "7797470199121",
+        "nombre": "Pure de tomate marolio 520g",
+        "cantidad": 3,
+        "precio": 871.98,
+        "subtotal": 2615.94
+      }
+    ],
+    "numero": "V-261026-231228"
+  }
+]
