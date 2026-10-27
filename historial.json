@@ -1,21 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T00:08:29.510Z",
+  "updatedAt": "2026-10-27T00:49:27.732Z",
   "months": [
     {
       "month": "2026-10",
       "label": "Octubre 2026",
-      "salesCount": 4,
-      "total": 39434.83,
-      "units": 21,
+      "closedAt": "2026-10-27T00:49:27.163Z",
+      "firstClosedAt": "2026-10-26T00:08:29.070Z",
+      "reclosedAt": "2026-10-27T00:49:27.163Z",
+      "salesCount": 5,
+      "total": 49433.15,
+      "units": 33,
       "uniqueClients": 1,
-      "avgTicket": 9858.7075,
+      "avgTicket": 9886.630000000001,
+      "activeDays": 4,
       "bestDay": {
         "date": "2026-10-13",
-        "total": 31667.21
+        "day": 13,
+        "total": 31667.21,
+        "count": 1,
+        "units": 12
       },
-      "activeDays": 4,
-      "daysElapsed": 25,
       "daily": [
         {
           "date": "2026-10-13",
@@ -41,9 +46,9 @@
         {
           "date": "2026-10-25",
           "day": 25,
-          "total": 2490.54,
-          "count": 1,
-          "units": 3
+          "total": 12488.86,
+          "count": 2,
+          "units": 15
         }
       ],
       "topProducts": [
@@ -58,14 +63,19 @@
           "revenue": 9301.6
         },
         {
+          "name": "Mate cocido san remo x25",
+          "units": 8,
+          "revenue": 6705.25
+        },
+        {
+          "name": "Pure de tomate marolio 520g",
+          "units": 8,
+          "revenue": 6677.6
+        },
+        {
           "name": "Cerealitas clasicas 212g",
           "units": 2,
           "revenue": 4197.78
-        },
-        {
-          "name": "Mate cocido san remo x25",
-          "units": 4,
-          "revenue": 3384.53
         },
         {
           "name": "La providencia x5",
@@ -101,37 +111,35 @@
         },
         {
           "name": "Cesar Fabian",
-          "count": 1,
-          "total": 2490.54
+          "count": 2,
+          "total": 12488.86
         }
       ],
       "topClients": [
         {
           "name": "Luciano Mendoza",
           "dni": "47258027",
-          "count": 4,
-          "total": 39434.83
+          "count": 5,
+          "total": 49433.15
         }
       ],
-      "closedAt": "2026-10-26T00:08:29.070Z",
-      "closedBy": "Panel de administración",
-      "complete": false,
-      "lastCutAt": "2026-10-26T00:08:29.070Z",
       "usersByDni": [
         {
           "dni": "47258027",
           "nombre": "Luciano Mendoza",
-          "compras": 4,
-          "total": 39434.83
+          "compras": 5,
+          "total": 49433.15
         }
       ],
+      "complete": false,
+      "lastCutAt": "2026-10-27T00:49:27.163Z",
       "cuts": [
         {
-          "at": "2026-10-26T00:08:29.070Z",
-          "desde": "2026-10-13T13:59:25.059Z",
-          "hasta": "2026-10-25T19:15:00.758Z",
-          "salesCount": 4,
-          "total": 39434.83,
+          "at": "2026-10-27T00:49:27.163Z",
+          "desde": "2026-10-26T00:53:59.550Z",
+          "hasta": "2026-10-26T00:53:59.550Z",
+          "salesCount": 1,
+          "total": 9998.32,
           "completo": false
         }
       ],
@@ -263,6 +271,35 @@
               "cantidad": 4,
               "precio": 2325.4,
               "subtotal": 9301.6
+            }
+          ]
+        },
+        {
+          "id": "V-261025-215359",
+          "fecha": "2026-10-26T00:53:59.550Z",
+          "cajera": "Cesar Fabian",
+          "total": 9998.32,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7798022221734",
+              "nombre": "Mate cocido san remo x25",
+              "cantidad": 4,
+              "precio": 830.18,
+              "subtotal": 3320.72
+            },
+            {
+              "codigo": "7797470199121",
+              "nombre": "Pure de tomate marolio 520g",
+              "cantidad": 8,
+              "precio": 834.7,
+              "subtotal": 6677.6
             }
           ]
         }
