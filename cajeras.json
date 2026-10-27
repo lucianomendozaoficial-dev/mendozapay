@@ -16,5 +16,11 @@
     "nombre": "Josefina Diaz",
     "pin": "2377",
     "activa": true
+  },
+  {
+    "id": 1793064580899,
+    "nombre": "Macarena Diaz",
+    "pin": "1122",
+    "activa": true
   }
 ]
