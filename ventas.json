@@ -1,0 +1,32 @@
+[
+  {
+    "id": "V-261027-115529",
+    "fecha": "2026-10-27T14:55:29.859Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "total": 10597.5,
+    "items": [
+      {
+        "codigo": "7794000006492",
+        "nombre": "Savora 200g",
+        "cantidad": 1,
+        "precio": 3158.92,
+        "subtotal": 3158.92
+      },
+      {
+        "codigo": "7790580156381",
+        "nombre": "Mac y cheese arcor 197g",
+        "cantidad": 2,
+        "precio": 3719.29,
+        "subtotal": 7438.58
+      }
+    ],
+    "numero": "V-261027-115529"
+  }
+]
