@@ -114,5 +114,31 @@
       "recibido": 11292.77,
       "vuelto": 0
     }
+  },
+  {
+    "id": "POS-261026-215224",
+    "numero": "POS-261026-215224",
+    "fecha": "2026-10-27T00:52:24.037Z",
+    "origen": "pos",
+    "caja": "Caja 1",
+    "cajera": "Valentina Castillo",
+    "cliente": {},
+    "items": [
+      {
+        "codigo": "7797470199121",
+        "nombre": "Pure de tomate marolio 520g",
+        "cantidad": 3,
+        "precio": 871.98,
+        "subtotal": 2615.94
+      }
+    ],
+    "subtotal": 2615.94,
+    "descuento": 0,
+    "total": 2615.94,
+    "pago": {
+      "metodo": "efectivo",
+      "recibido": 3000,
+      "vuelto": 384.06
+    }
   }
 ]
