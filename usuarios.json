@@ -6,12 +6,32 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 1,
-    "compras": 1,
-    "totalGastado": 10597.5,
+    "puntos": 2,
+    "compras": 2,
+    "totalGastado": 14377.16,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-27T14:55:29.859Z",
+    "ultimaCompra": "2026-10-27T22:24:43.232Z",
     "historial": [
+      {
+        "numero": "V-261027-192443",
+        "fecha": "2026-10-27T22:24:43.232Z",
+        "total": 3779.66,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "Pure de tomate la huerta 530g",
+            "cantidad": 2,
+            "precio": 954.42,
+            "subtotal": 1908.84
+          },
+          {
+            "nombre": "Fideo mostachol sol pampeano 500g",
+            "cantidad": 2,
+            "precio": 935.41,
+            "subtotal": 1870.82
+          }
+        ]
+      },
       {
         "numero": "V-261027-115529",
         "fecha": "2026-10-27T14:55:29.859Z",
