@@ -5,13 +5,27 @@
     "nacimiento": "2005-09-18",
     "dni": "47258027",
     "celular": "1151186792",
-    "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 7,
-    "compras": 7,
-    "totalGastado": 32442.260000000002,
+    "email": "",
+    "puntos": 8,
+    "compras": 8,
+    "totalGastado": 128969.59,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-28T14:08:24.378Z",
+    "ultimaCompra": "2026-10-28T22:48:13.766Z",
     "historial": [
+      {
+        "numero": "V-261028-194813",
+        "fecha": "2026-10-28T22:48:13.766Z",
+        "total": 1377.67,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "9 de oro agridulce 200g",
+            "cantidad": 1,
+            "precio": 1377.67,
+            "subtotal": 1377.67
+          }
+        ]
+      },
       {
         "numero": "V-261028-110824",
         "fecha": "2026-10-28T14:08:24.378Z",
@@ -169,6 +183,6 @@
         ]
       }
     ],
-    "ultimoAcceso": "2026-10-28T12:43:33.640Z"
+    "ultimoAcceso": "2026-10-10T23:41:59.906Z"
   }
 ]
