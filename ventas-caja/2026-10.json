@@ -82,5 +82,29 @@
     ],
     "numero": "V-261027-212446",
     "__firma": "7792200000128:2"
+  },
+  {
+    "id": "V-261027-214416",
+    "fecha": "2026-10-28T00:44:16.108Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": ""
+    },
+    "cajera": "Valentina Castillo",
+    "total": 12295.89,
+    "items": [
+      {
+        "codigo": "7792180001641",
+        "nombre": "Aceite cañuelas 900ml",
+        "cantidad": 3,
+        "precio": 4098.63,
+        "subtotal": 12295.89
+      }
+    ],
+    "numero": "V-261027-214416",
+    "__firma": "7792180001641:3"
   }
 ]
