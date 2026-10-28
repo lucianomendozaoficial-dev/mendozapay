@@ -137,5 +137,36 @@
     ],
     "numero": "V-261027-220359",
     "__firma": "7792200000128:4|7792180001641:1"
+  },
+  {
+    "id": "V-261028-105541",
+    "fecha": "2026-10-28T13:55:41.088Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "total": 6829.32,
+    "items": [
+      {
+        "codigo": "7794000006492",
+        "nombre": "Savora 200g",
+        "cantidad": 1,
+        "precio": 3158.92,
+        "subtotal": 3158.92
+      },
+      {
+        "codigo": "7790036567440",
+        "nombre": "Pure de tomate la huerta 530g",
+        "cantidad": 4,
+        "precio": 917.6,
+        "subtotal": 3670.4
+      }
+    ],
+    "numero": "V-261028-105541",
+    "__firma": "7794000006492:1|7790036567440:4"
   }
 ]
