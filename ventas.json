@@ -106,5 +106,36 @@
     ],
     "numero": "V-261027-214416",
     "__firma": "7792180001641:3"
+  },
+  {
+    "id": "V-261027-220359",
+    "fecha": "2026-10-28T01:03:59.530Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "total": 9002.36,
+    "items": [
+      {
+        "codigo": "7792200000128",
+        "nombre": "9 de oro agridulce 200g",
+        "cantidad": 4,
+        "precio": 1183.24,
+        "subtotal": 4732.96
+      },
+      {
+        "codigo": "7792180001641",
+        "nombre": "Aceite cañuelas 900ml",
+        "cantidad": 1,
+        "precio": 4269.4,
+        "subtotal": 4269.4
+      }
+    ],
+    "numero": "V-261027-220359",
+    "__firma": "7792200000128:4|7792180001641:1"
   }
 ]
