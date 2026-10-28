@@ -168,5 +168,29 @@
     ],
     "numero": "V-261028-105541",
     "__firma": "7794000006492:1|7790036567440:4"
+  },
+  {
+    "id": "V-261028-110824",
+    "fecha": "2026-10-28T14:08:24.378Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "total": 2233.42,
+    "items": [
+      {
+        "codigo": "7795184001907",
+        "nombre": "Pure de tomate noel 520g",
+        "cantidad": 2,
+        "precio": 1116.71,
+        "subtotal": 2233.42
+      }
+    ],
+    "numero": "V-261028-110824",
+    "__firma": "7795184001907:2"
   }
 ]
