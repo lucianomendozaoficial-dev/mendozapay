@@ -6,12 +6,26 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 6,
-    "compras": 6,
-    "totalGastado": 30208.84,
+    "puntos": 7,
+    "compras": 7,
+    "totalGastado": 32442.260000000002,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-28T13:55:41.088Z",
+    "ultimaCompra": "2026-10-28T14:08:24.378Z",
     "historial": [
+      {
+        "numero": "V-261028-110824",
+        "fecha": "2026-10-28T14:08:24.378Z",
+        "total": 2233.42,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "Pure de tomate noel 520g",
+            "cantidad": 2,
+            "precio": 1116.71,
+            "subtotal": 2233.42
+          }
+        ]
+      },
       {
         "numero": "V-261028-105541",
         "fecha": "2026-10-28T13:55:41.088Z",
