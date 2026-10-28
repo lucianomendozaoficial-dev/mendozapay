@@ -6,12 +6,32 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 5,
-    "compras": 5,
-    "totalGastado": 23379.52,
+    "puntos": 6,
+    "compras": 6,
+    "totalGastado": 30208.84,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-28T01:03:59.530Z",
+    "ultimaCompra": "2026-10-28T13:55:41.088Z",
     "historial": [
+      {
+        "numero": "V-261028-105541",
+        "fecha": "2026-10-28T13:55:41.088Z",
+        "total": 6829.32,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "Savora 200g",
+            "cantidad": 1,
+            "precio": 3158.92,
+            "subtotal": 3158.92
+          },
+          {
+            "nombre": "Pure de tomate la huerta 530g",
+            "cantidad": 4,
+            "precio": 917.6,
+            "subtotal": 3670.4
+          }
+        ]
+      },
       {
         "numero": "V-261027-220359",
         "fecha": "2026-10-28T01:03:59.530Z",
