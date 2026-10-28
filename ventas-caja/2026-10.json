@@ -216,5 +216,33 @@
     ],
     "numero": "V-261028-194813",
     "__firma": "7792200000128:1"
+  },
+  {
+    "id": "V-261028-200858",
+    "fecha": "2026-10-28T23:08:58.860Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": ""
+    },
+    "cajera": "Valentina Castillo",
+    "metodoPago": "transferencia",
+    "pago": {
+      "metodo": "transferencia"
+    },
+    "total": 5916.2,
+    "items": [
+      {
+        "codigo": "7792200000128",
+        "nombre": "9 de oro agridulce 200g",
+        "cantidad": 5,
+        "precio": 1183.24,
+        "subtotal": 5916.2
+      }
+    ],
+    "numero": "V-261028-200858",
+    "__firma": "7792200000128:5"
   }
 ]
