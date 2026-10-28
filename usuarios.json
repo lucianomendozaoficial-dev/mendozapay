@@ -6,12 +6,26 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "",
-    "puntos": 8,
-    "compras": 8,
-    "totalGastado": 128969.59,
+    "puntos": 9,
+    "compras": 9,
+    "totalGastado": 134885.79,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-28T22:48:13.766Z",
+    "ultimaCompra": "2026-10-28T23:08:58.860Z",
     "historial": [
+      {
+        "numero": "V-261028-200858",
+        "fecha": "2026-10-28T23:08:58.860Z",
+        "total": 5916.2,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "9 de oro agridulce 200g",
+            "cantidad": 5,
+            "precio": 1183.24,
+            "subtotal": 5916.2
+          }
+        ]
+      },
       {
         "numero": "V-261028-194813",
         "fecha": "2026-10-28T22:48:13.766Z",
