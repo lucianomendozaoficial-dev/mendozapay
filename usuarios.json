@@ -6,12 +6,26 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "",
-    "puntos": 3,
-    "compras": 3,
-    "totalGastado": 115296.03,
+    "puntos": 4,
+    "compras": 4,
+    "totalGastado": 127591.92,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-28T00:24:46.252Z",
+    "ultimaCompra": "2026-10-28T00:44:16.108Z",
     "historial": [
+      {
+        "numero": "V-261027-214416",
+        "fecha": "2026-10-28T00:44:16.108Z",
+        "total": 12295.89,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "Aceite cañuelas 900ml",
+            "cantidad": 3,
+            "precio": 4098.63,
+            "subtotal": 12295.89
+          }
+        ]
+      },
       {
         "numero": "V-261027-212446",
         "fecha": "2026-10-28T00:24:46.252Z",
