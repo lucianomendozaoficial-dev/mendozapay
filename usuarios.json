@@ -5,13 +5,33 @@
     "nacimiento": "2005-09-18",
     "dni": "47258027",
     "celular": "1151186792",
-    "email": "",
-    "puntos": 4,
-    "compras": 4,
-    "totalGastado": 127591.92,
+    "email": "lucianomendozaoficial@gmail.com",
+    "puntos": 5,
+    "compras": 5,
+    "totalGastado": 23379.52,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-28T00:44:16.108Z",
+    "ultimaCompra": "2026-10-28T01:03:59.530Z",
     "historial": [
+      {
+        "numero": "V-261027-220359",
+        "fecha": "2026-10-28T01:03:59.530Z",
+        "total": 9002.36,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "9 de oro agridulce 200g",
+            "cantidad": 4,
+            "precio": 1183.24,
+            "subtotal": 4732.96
+          },
+          {
+            "nombre": "Aceite cañuelas 900ml",
+            "cantidad": 1,
+            "precio": 4269.4,
+            "subtotal": 4269.4
+          }
+        ]
+      },
       {
         "numero": "V-261027-214416",
         "fecha": "2026-10-28T00:44:16.108Z",
