@@ -5,13 +5,27 @@
     "nacimiento": "2005-09-18",
     "dni": "47258027",
     "celular": "1151186792",
-    "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 2,
-    "compras": 2,
-    "totalGastado": 14377.16,
+    "email": "",
+    "puntos": 3,
+    "compras": 3,
+    "totalGastado": 115296.03,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-10-27T22:24:43.232Z",
+    "ultimaCompra": "2026-10-28T00:24:46.252Z",
     "historial": [
+      {
+        "numero": "V-261027-212446",
+        "fecha": "2026-10-28T00:24:46.252Z",
+        "total": 2555.98,
+        "cajera": "Valentina Castillo",
+        "items": [
+          {
+            "nombre": "9 de oro agridulce 200g",
+            "cantidad": 2,
+            "precio": 1277.99,
+            "subtotal": 2555.98
+          }
+        ]
+      },
       {
         "numero": "V-261027-192443",
         "fecha": "2026-10-27T22:24:43.232Z",
@@ -51,7 +65,42 @@
             "subtotal": 7438.58
           }
         ]
+      },
+      {
+        "numero": "V-261025-215359",
+        "fecha": "2026-10-26T00:53:59.550Z",
+        "total": 9998.32,
+        "cajera": "Cesar Fabian",
+        "items": [
+          {
+            "nombre": "Mate cocido san remo x25",
+            "cantidad": 4,
+            "precio": 830.18,
+            "subtotal": 3320.72
+          },
+          {
+            "nombre": "Pure de tomate marolio 520g",
+            "cantidad": 8,
+            "precio": 834.7,
+            "subtotal": 6677.6
+          }
+        ]
+      },
+      {
+        "numero": "V-261025-161500",
+        "fecha": "2026-10-25T19:15:00.758Z",
+        "total": 2490.54,
+        "cajera": "Cesar Fabian",
+        "items": [
+          {
+            "nombre": "Mate cocido san remo x25",
+            "cantidad": 3,
+            "precio": 830.18,
+            "subtotal": 2490.54
+          }
+        ]
       }
-    ]
+    ],
+    "ultimoAcceso": "2026-10-10T23:41:59.906Z"
   }
 ]
