@@ -272,5 +272,40 @@
     ],
     "numero": "V-261028-203612",
     "__firma": "7792200000128:1"
+  },
+  {
+    "id": "V-261031-220240",
+    "fecha": "2026-11-01T01:02:40.284Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "metodoPago": "cuenta",
+    "pago": {
+      "metodo": "cuenta"
+    },
+    "total": 7072.09,
+    "items": [
+      {
+        "codigo": "7622201745523",
+        "nombre": "Lincoln 153g",
+        "cantidad": 1,
+        "precio": 1948.1,
+        "subtotal": 1948.1
+      },
+      {
+        "codigo": "7793704000928",
+        "nombre": "Yerba Playadito 1k",
+        "cantidad": 1,
+        "precio": 5123.99,
+        "subtotal": 5123.99
+      }
+    ],
+    "numero": "V-261031-220240",
+    "__firma": "7622201745523:1|7793704000928:1"
   }
 ]
