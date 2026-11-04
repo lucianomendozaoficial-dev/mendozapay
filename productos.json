@@ -917,5 +917,20 @@
         "price": 1045.33
       }
     ]
+  },
+  {
+    "name": "Arroz largo fino molino ala 1k",
+    "id": "7791120031557",
+    "price": 2162.47,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1998.9
+      },
+      {
+        "qty": 3,
+        "price": 1882.93
+      }
+    ]
   }
 ]
