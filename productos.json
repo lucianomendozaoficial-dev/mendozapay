@@ -902,5 +902,20 @@
         "price": 1682.68
       }
     ]
+  },
+  {
+    "name": "Arroz largo fino molino ala 500g",
+    "id": "7791120031564",
+    "price": 1198.9,
+    "tiers": [
+      {
+        "qty": 2,
+        "price": 1122.76
+      },
+      {
+        "qty": 3,
+        "price": 1045.33
+      }
+    ]
   }
 ]
