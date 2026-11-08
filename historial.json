@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-08T03:27:39.386Z",
+  "months": [
+    {
+      "month": "2026-10",
+      "label": "Octubre 2026",
+      "closedAt": "2026-11-08T03:27:38.810Z",
+      "firstClosedAt": "2026-10-27T00:49:27.163Z",
+      "reclosedAt": "2026-11-08T03:27:38.810Z",
+      "salesCount": 16,
+      "total": 112470.91,
+      "units": 66,
+      "uniqueClients": 1,
+      "avgTicket": 7029.431875,
+      "activeDays": 3,
+      "bestDay": {
+        "date": "2026-10-27",
+        "day": 27,
+        "total": 38231.39,
+        "count": 5,
+        "units": 17
+      },
+      "daily": [
+        {
+          "date": "2026-10-27",
+          "day": 27,
+          "total": 38231.39,
+          "count": 5,
+          "units": 17
+        },
+        {
+          "date": "2026-10-28",
+          "day": 28,
+          "total": 17734.28,
+          "count": 5,
+          "units": 14
+        },
+        {
+          "date": "2026-10-31",
+          "day": 31,
+          "total": 7072.09,
+          "count": 1,
+          "units": 2
+        }
+      ],
+      "topProducts": [
+        {
+          "name": "Aceite cañuelas 900ml",
+          "units": 4,
+          "revenue": 16565.29
+        },
+        {
+          "name": "9 de oro agridulce 200g",
+          "units": 13,
+          "revenue": 15960.48
+        },
+        {
+          "name": "Mac y cheese arcor 197g",
+          "units": 2,
+          "revenue": 7438.58
+        },
+        {
+          "name": "Savora 200g",
+          "units": 2,
+          "revenue": 6317.84
+        },
+        {
+          "name": "Pure de tomate la huerta 530g",
+          "units": 6,
+          "revenue": 5579.24
+        },
+        {
+          "name": "Yerba Playadito 1k",
+          "units": 1,
+          "revenue": 5123.99
+        },
+        {
+          "name": "Pure de tomate noel 520g",
+          "units": 2,
+          "revenue": 2233.42
+        },
+        {
+          "name": "Lincoln 153g",
+          "units": 1,
+          "revenue": 1948.1
+        },
+        {
+          "name": "Fideo mostachol sol pampeano 500g",
+          "units": 2,
+          "revenue": 1870.82
+        }
+      ],
+      "cajeras": [
+        {
+          "name": "Valentina Castillo",
+          "count": 11,
+          "total": 63037.76
+        }
+      ],
+      "topClients": [
+        {
+          "name": "Luciano Mendoza",
+          "dni": "47258027",
+          "count": 11,
+          "total": 63037.76
+        }
+      ],
+      "usersByDni": [
+        {
+          "dni": "47258027",
+          "nombre": "Luciano Mendoza",
+          "compras": 11,
+          "total": 63037.76
+        }
+      ],
+      "complete": true,
+      "lastCutAt": "2026-11-08T03:27:38.810Z",
+      "cuts": [
+        {
+          "at": "2026-11-08T03:27:38.810Z",
+          "desde": "2026-10-27T14:55:29.859Z",
+          "hasta": "2026-11-01T01:02:40.284Z",
+          "salesCount": 11,
+          "total": 63037.76,
+          "completo": true
+        }
+      ],
+      "sales": [
+        {
+          "id": "V-261031-220240",
+          "fecha": "2026-11-01T01:02:40.284Z",
+          "cajera": "Valentina Castillo",
+          "total": 7072.09,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7622201745523",
+              "nombre": "Lincoln 153g",
+              "cantidad": 1,
+              "precio": 1948.1,
+              "subtotal": 1948.1
+            },
+            {
+              "codigo": "7793704000928",
+              "nombre": "Yerba Playadito 1k",
+              "cantidad": 1,
+              "precio": 5123.99,
+              "subtotal": 5123.99
+            }
+          ]
+        },
+        {
+          "id": "V-261028-203612",
+          "fecha": "2026-10-28T23:36:12.318Z",
+          "cajera": "Valentina Castillo",
+          "total": 1377.67,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7792200000128",
+              "nombre": "9 de oro agridulce 200g",
+              "cantidad": 1,
+              "precio": 1377.67,
+              "subtotal": 1377.67
+            }
+          ]
+        },
+        {
+          "id": "V-261028-200858",
+          "fecha": "2026-10-28T23:08:58.860Z",
+          "cajera": "Valentina Castillo",
+          "total": 5916.2,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": ""
+          },
+          "items": [
+            {
+              "codigo": "7792200000128",
+              "nombre": "9 de oro agridulce 200g",
+              "cantidad": 5,
+              "precio": 1183.24,
+              "subtotal": 5916.2
+            }
+          ]
+        },
+        {
+          "id": "V-261028-194813",
+          "fecha": "2026-10-28T22:48:13.766Z",
+          "cajera": "Valentina Castillo",
+          "total": 1377.67,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": ""
+          },
+          "items": [
+            {
+              "codigo": "7792200000128",
+              "nombre": "9 de oro agridulce 200g",
+              "cantidad": 1,
+              "precio": 1377.67,
+              "subtotal": 1377.67
+            }
+          ]
+        },
+        {
+          "id": "V-261028-110824",
+          "fecha": "2026-10-28T14:08:24.378Z",
+          "cajera": "Valentina Castillo",
+          "total": 2233.42,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7795184001907",
+              "nombre": "Pure de tomate noel 520g",
+              "cantidad": 2,
+              "precio": 1116.71,
+              "subtotal": 2233.42
+            }
+          ]
+        },
+        {
+          "id": "V-261028-105541",
+          "fecha": "2026-10-28T13:55:41.088Z",
+          "cajera": "Valentina Castillo",
+          "total": 6829.32,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7794000006492",
+              "nombre": "Savora 200g",
+              "cantidad": 1,
+              "precio": 3158.92,
+              "subtotal": 3158.92
+            },
+            {
+              "codigo": "7790036567440",
+              "nombre": "Pure de tomate la huerta 530g",
+              "cantidad": 4,
+              "precio": 917.6,
+              "subtotal": 3670.4
+            }
+          ]
+        },
+        {
+          "id": "V-261027-220359",
+          "fecha": "2026-10-28T01:03:59.530Z",
+          "cajera": "Valentina Castillo",
+          "total": 9002.36,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7792200000128",
+              "nombre": "9 de oro agridulce 200g",
+              "cantidad": 4,
+              "precio": 1183.24,
+              "subtotal": 4732.96
+            },
+            {
+              "codigo": "7792180001641",
+              "nombre": "Aceite cañuelas 900ml",
+              "cantidad": 1,
+              "precio": 4269.4,
+              "subtotal": 4269.4
+            }
+          ]
+        },
+        {
+          "id": "V-261027-214416",
+          "fecha": "2026-10-28T00:44:16.108Z",
+          "cajera": "Valentina Castillo",
+          "total": 12295.89,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": ""
+          },
+          "items": [
+            {
+              "codigo": "7792180001641",
+              "nombre": "Aceite cañuelas 900ml",
+              "cantidad": 3,
+              "precio": 4098.63,
+              "subtotal": 12295.89
+            }
+          ]
+        },
+        {
+          "id": "V-261027-212446",
+          "fecha": "2026-10-28T00:24:46.252Z",
+          "cajera": "Valentina Castillo",
+          "total": 2555.98,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": ""
+          },
+          "items": [
+            {
+              "codigo": "7792200000128",
+              "nombre": "9 de oro agridulce 200g",
+              "cantidad": 2,
+              "precio": 1277.99,
+              "subtotal": 2555.98
+            }
+          ]
+        },
+        {
+          "id": "V-261027-192443",
+          "fecha": "2026-10-27T22:24:43.232Z",
+          "cajera": "Valentina Castillo",
+          "total": 3779.66,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7790036567440",
+              "nombre": "Pure de tomate la huerta 530g",
+              "cantidad": 2,
+              "precio": 954.42,
+              "subtotal": 1908.84
+            },
+            {
+              "codigo": "7798031153835",
+              "nombre": "Fideo mostachol sol pampeano 500g",
+              "cantidad": 2,
+              "precio": 935.41,
+              "subtotal": 1870.82
+            }
+          ]
+        },
+        {
+          "id": "V-261027-115529",
+          "fecha": "2026-10-27T14:55:29.859Z",
+          "cajera": "Valentina Castillo",
+          "total": 10597.5,
+          "cliente": {
+            "nombre": "Luciano",
+            "apellido": "Mendoza",
+            "dni": "47258027",
+            "celular": "1151186792",
+            "email": "lucianomendozaoficial@gmail.com"
+          },
+          "items": [
+            {
+              "codigo": "7794000006492",
+              "nombre": "Savora 200g",
+              "cantidad": 1,
+              "precio": 3158.92,
+              "subtotal": 3158.92
+            },
+            {
+              "codigo": "7790580156381",
+              "nombre": "Mac y cheese arcor 197g",
+              "cantidad": 2,
+              "precio": 3719.29,
+              "subtotal": 7438.58
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
