@@ -6,12 +6,45 @@
     "dni": "47258027",
     "celular": "1151186792",
     "email": "lucianomendozaoficial@gmail.com",
-    "puntos": 0,
-    "compras": 0,
-    "totalGastado": 0,
+    "puntos": 1,
+    "compras": 1,
+    "totalGastado": 56468.880000000005,
     "fechaRegistro": "2026-10-27T14:54:24.631Z",
-    "ultimaCompra": "2026-11-01T01:02:40.284Z",
+    "ultimaCompra": "2026-11-11T00:40:02.673Z",
     "historial": [
+      {
+        "numero": "V-261110-214002",
+        "fecha": "2026-11-11T00:40:02.673Z",
+        "total": 15576.86,
+        "cajera": "Valentina Castillo",
+        "metodoPago": "transferencia",
+        "items": [
+          {
+            "nombre": "Yerba mañanita 500g",
+            "cantidad": 1,
+            "precio": 2277.88,
+            "subtotal": 2277.88
+          },
+          {
+            "nombre": "Dulce de leche tregar 200g",
+            "cantidad": 2,
+            "precio": 1979.81,
+            "subtotal": 3959.62
+          },
+          {
+            "nombre": "Yerba amanda 500g",
+            "cantidad": 2,
+            "precio": 1969.68,
+            "subtotal": 3939.36
+          },
+          {
+            "nombre": "Manaos 1LT",
+            "cantidad": 3,
+            "precio": 1800,
+            "subtotal": 5400
+          }
+        ]
+      },
       {
         "numero": "V-261031-220240",
         "fecha": "2026-11-01T01:02:40.284Z",
