@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "V-261110-214002",
+    "fecha": "2026-11-11T00:40:02.673Z",
+    "cliente": {
+      "nombre": "Luciano",
+      "apellido": "Mendoza",
+      "dni": "47258027",
+      "celular": "1151186792",
+      "email": "lucianomendozaoficial@gmail.com"
+    },
+    "cajera": "Valentina Castillo",
+    "metodoPago": "transferencia",
+    "pago": {
+      "metodo": "transferencia"
+    },
+    "total": 15576.86,
+    "items": [
+      {
+        "codigo": "7790387015324",
+        "nombre": "Yerba mañanita 500g",
+        "cantidad": 1,
+        "precio": 2277.88,
+        "subtotal": 2277.88
+      },
+      {
+        "codigo": "7793913001945",
+        "nombre": "Dulce de leche tregar 200g",
+        "cantidad": 2,
+        "precio": 1979.81,
+        "subtotal": 3959.62
+      },
+      {
+        "codigo": "7792710000182",
+        "nombre": "Yerba amanda 500g",
+        "cantidad": 2,
+        "precio": 1969.68,
+        "subtotal": 3939.36
+      },
+      {
+        "codigo": "7798113300010",
+        "nombre": "Manaos 1LT",
+        "cantidad": 3,
+        "precio": 1800,
+        "subtotal": 5400
+      }
+    ],
+    "numero": "V-261110-214002",
+    "__firma": "7790387015324:1|7793913001945:2|7792710000182:2|7798113300010:3"
+  }
+]
